@@ -9,3 +9,4 @@ longform:
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
+Test for a new post to my quartz page
