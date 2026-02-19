@@ -11,6 +11,6 @@ longform:
 ---
 This is a new message and a test to see if the link is the same with different content
  ```
- I AM AWESOME
+ Swapped Light mode for Dark mode
  ```
  
