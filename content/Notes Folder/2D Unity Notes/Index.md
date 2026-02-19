@@ -6,7 +6,6 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
-    - Poopy Pants
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
