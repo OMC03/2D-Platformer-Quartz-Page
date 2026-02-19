@@ -9,4 +9,8 @@ longform:
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
-Test for a new post to my quartz page
+This is a new message and a test to see if the link is the same with different content
+ ```
+ I AM AWESOME
+ ```
+ 
